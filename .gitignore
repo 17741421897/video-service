@@ -1,0 +1,8 @@
+config.env
+.runtime/
+output/
+dist/
+build/
+*.spec.bak
+__pycache__/
+*.pyc
