@@ -1,3 +1,6 @@
+
+本项目基于开源项目ComfyUI进行二次开发
+
 # video-service
 
 Wan2.1 文生视频 HTTP API（ComfyUI 引擎 + `run.py` 源码启动）。
